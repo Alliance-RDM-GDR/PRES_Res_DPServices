@@ -15,7 +15,8 @@ Forthcoming EN/FR
 - File Format Overviews - Forthcoming
 
 ## High Level Workflows / Flux de travail de haut niveau
-Forthcoming
+- [Processing Workflow / Processus de traitement](https://drive.google.com/file/d/1EXlT6zM1UyX9DNeldVzEb4Pczu4_JPRN/view?usp=sharing)
+- [File Format Workflow](https://drive.google.com/file/d/1s3cPfoveZPZCFjf3Q1JLX906kkaqENFx/view?usp=sharing) | [Flux de travail des formats de fichiers](https://drive.google.com/file/d/16aQNO4ANRB_2XidcLzXzRfBEsCEGY5Pr/view?usp=sharing)
 
 ## Selected Presentations / Présentation sélectionnées
 - [Has Magic?: False: File Format Signature Development for Research Data Formats](https://drive.google.com/file/d/1OdeyDnRl5rcDpa15mAym21xqVdP7t5aa/view?usp=sharing)| [DRI Connect 2025](https://driconnect.alliancecan.ca/) - May 27, 2025
