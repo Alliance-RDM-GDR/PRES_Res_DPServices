@@ -8,7 +8,7 @@ Forthcoming EN/FR
 
 ## Resources for Researchers / Ressources pour les chercheuses et les chercheurs
 - Forthcoming guides EN/FR
-- [Digital Preservation Tips for Researchers](https://drive.google.com/file/d/14uEKodr1PcLUypmS97PGhgMO3Ms1v2xd/view?usp=sharingtarget="_blank") / FR forthcoming
+- [Digital Preservation Tips for Researchers](https://drive.google.com/file/d/14uEKodr1PcLUypmS97PGhgMO3Ms1v2xd/view?usp=sharing?target="_blank") / FR forthcoming
 
 ## File Format Work / Travail sur les formats de fichiers
 - [File Format Signatures Developed for PRONOM / Signatures de format de fichier développées pour PRONOM](https://drive.google.com/drive/folders/1ZHI51Nnb_yAqfIatL7rdSqwHTUGLkSJk?usp=drive_link){:target="_blank"} 
