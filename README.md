@@ -1,14 +1,14 @@
 # Digital Preservation Services / Services de préservation numérique
-Digital Preservation Services is responsible for developing strategies and enacting activities that contribute to the long-term access and reuse of datasets. Digital Preservation Services is also responsible for determining long-term retention of datasets through the application of appraisal and reappraisal strategies and deaccession workflows. Digital Preservation Services is responsible for identifying gaps and areas of improvement in an effort to develop more robust and efficient activities to ensure long-term access and reuse of the data.
+Digital Preservation Services is responsible for developing strategies and enacting activities that contribute to the long-term access and reuse of datasets. The service is also responsible for determining long-term retention of datasets through the application of appraisal and reappraisal strategies and deaccession workflows. Digital Preservation Services is responsible for identifying gaps and areas of improvement in an effort to develop more robust and efficient activities to ensure long-term access and reuse of the data.
 
-Le service de préservation numérique est chargé d'élaborer des stratégies et de mettre en œuvre des activités qui contribuent à l'accès et à la réutilisation à long terme des jeux de données. Le service de préservation numérique est également chargé de déterminer la conservation à long terme des jeux de données par l'application de stratégies d'évaluation et de réévaluation et de flux de travail de retrait. Le service de préservation numérique est chargé d'identifier les lacunes et les domaines d'amélioration dans le but de développer des activités plus robustes et plus efficaces pour garantir l'accès et la réutilisation à long terme des données.
+Le service de préservation numérique est chargé d'élaborer des stratégies et de mettre en œuvre des activités qui contribuent à l'accès et à la réutilisation à long terme des jeux de données. Le service est également chargé de déterminer la conservation à long terme des jeux de données par l'application de stratégies d'évaluation et de réévaluation et de flux de travail de retrait. Le service de préservation numérique est chargé d'identifier les lacunes et les domaines d'amélioration dans le but de développer des activités plus robustes et plus efficaces pour garantir l'accès et la réutilisation à long terme des données.
 
 ## Digital Preservation Strategy / Stratégie de préservation numérique
 Forthcoming EN/FR
 
 ## Resources for Researchers / Ressources pour les chercheuses et les chercheurs
 - Forthcoming guides EN/FR
-- [Digital Preservation Tips for Researchers](https://drive.google.com/file/d/14uEKodr1PcLUypmS97PGhgMO3Ms1v2xd/view?usp=sharing) / FR forthcoming
+- Digital Preservation Tips for Researchers / Conseils de préservation numérique pour les chercheuses et les chercheurs
 
 ## File Format Work / Travail sur les formats de fichiers
 - [File Format Signatures Developed for PRONOM / Signatures de format de fichier développées pour PRONOM](https://drive.google.com/drive/folders/1ZHI51Nnb_yAqfIatL7rdSqwHTUGLkSJk?usp=drive_link)
