@@ -35,7 +35,7 @@ Consultez la page sur le format de fichier - en cours de développement pour obt
 ### Conseils sur les formats de fichiers à l'intention des chercheurs
 Le tableau ci-dessous fournit des conseils généraux à l'intention des chercheuses et des chercheurs, soulignant les différences entre les formats propriétaires et les formats ouverts. En général, les formats ouverts sont suggérés pour faciliter l'accès et la réutilisation à long terme. Cependant, toutes les recherches ne peuvent pas utiliser des formats ouverts.
 
-| Format ouvert | Format propriétaire | Format propriétaire mais ouvert|
+| Formats ouverts | Formats propriétaires | Format propriétaire mais ouvert|
 |:-----------|:----------- |:----------- |
 | Aucune restriction d'utilisation. Spécification du format librement disponible | Propriété et contrôle d'une entreprise | Propriété, mais la spécification peut être publiée (en totalité ou en partie) |
 | Peut être lu correctement par une série de logiciels différents. Entièrement fonctionnel dans au moins un logiciel libre | Nécessite généralement un logiciel propriétaire pour lire les fichiers de manière fiable | Options de logiciel libre pour visualiser ou analyser les fichiers, mais peut ne pas avoir toutes les fonctionnalités |
