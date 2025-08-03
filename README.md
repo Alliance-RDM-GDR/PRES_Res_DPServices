@@ -3,7 +3,7 @@
 
 Digital Preservation Services is responsible for developing strategies and enacting activities that contribute to the long-term access and reuse of datasets. The service is also responsible for determining long-term retention of datasets through the application of appraisal and reappraisal strategies and deaccession workflows. Digital Preservation Services is responsible for identifying gaps and areas of improvement in an effort to develop more robust and efficient activities to ensure long-term access and reuse of the data.
 
-Visit the [file format page](https://github.com/Alliance-RDM-GDR/Digital_Preservation_Services_File_Format/blob/main/README.md) for a information about the service's file format work and strategy.
+Visit the [file format page - in development](https://github.com/Alliance-RDM-GDR/Digital_Preservation_Services_File_Format/blob/main/README.md) for a information about the service's file format work and strategy.
 
 ## Resources for Researchers
 - Forthcoming guides
@@ -13,7 +13,7 @@ Visit the [file format page](https://github.com/Alliance-RDM-GDR/Digital_Preserv
 The table below provides general guidelines for researchers outlining the differences between proprietary and open formats. In general, open formats are suggested to help facilitate long-term access and reuse. However, not all research can use open formats.
 
 | Open formats | Proprietary formats | Proprietary, but open | 
-| ----------- | ----------- | ----------- |
+|:-----------|:----------- |:----------- |
 | No restrictions on use. Format specification freely available | Owned and controlled by a company | Proprietary, but the specification may be published (in whole or part) |
 | Can be correctly read by a range of different software programs. Fully functional in at least one free software | Typically  requires proprietary software to read files reliably | Freeware options to visualize or analyze files, but may not have full functionality |
 | Often an open standard, maintained by non-commercial expert body | Format description confidential, and subject to change at any time | Format description subject to change at any time, controlled by company |
@@ -27,7 +27,7 @@ The table below provides general guidelines for researchers outlining the differ
 # Services de préservation numérique
 Le service de préservation numérique est chargé d'élaborer des stratégies et de mettre en œuvre des activités qui contribuent à l'accès et à la réutilisation à long terme des jeux de données. Le service est également chargé de déterminer la conservation à long terme des jeux de données par l'application de stratégies d'évaluation et de réévaluation et de flux de travail de retrait. Le service de préservation numérique est chargé d'identifier les lacunes et les domaines d'amélioration dans le but de développer des activités plus robustes et plus efficaces pour garantir l'accès et la réutilisation à long terme des données.
 
-Consultez la [page sur le format de fichier](https://github.com/Alliance-RDM-GDR/Digital_Preservation_Services_File_Format/blob/main/README.md) pour obtenir des informations sur le travail et la stratégie du service en matière de format de fichier.
+Consultez la [page sur le format de fichier - en cours de développement](https://github.com/Alliance-RDM-GDR/Digital_Preservation_Services_File_Format/blob/main/README.md) pour obtenir des informations sur le travail et la stratégie du service en matière de format de fichier.
 
 ## Ressources pour les chercheuses et les chercheurs
 - Guides
@@ -36,8 +36,8 @@ Consultez la [page sur le format de fichier](https://github.com/Alliance-RDM-GDR
 ### Conseils sur les formats de fichiers à l'intention des chercheurs
 Le tableau ci-dessous fournit des conseils généraux à l'intention des chercheuses et des chercheurs, soulignant les différences entre les formats propriétaires et les formats ouverts. En général, les formats ouverts sont suggérés pour faciliter l'accès et la réutilisation à long terme. Cependant, toutes les recherches ne peuvent pas utiliser des formats ouverts.
 
-| Format ouvert | Format propriétaire | Format propriétaire mais ouvert |
-| ----------- | ----------- | ----------- |
+| Format ouvert | Format propriétaire | Format propriétaire mais ouvert|
+|:-----------|:----------- |:----------- |
 | Aucune restriction d'utilisation. Spécification du format librement disponible | Propriété et contrôle d'une entreprise | Propriété, mais la spécification peut être publiée (en totalité ou en partie) |
 | Peut être lu correctement par une série de logiciels différents. Entièrement fonctionnel dans au moins un logiciel libre | Nécessite généralement un logiciel propriétaire pour lire les fichiers de manière fiable | Options de logiciel libre pour visualiser ou analyser les fichiers, mais peut ne pas avoir toutes les fonctionnalités |
 | Souvent une norme ouverte, maintenue par un organisme d'experts non commercial | Description du format confidentielle et susceptible d'être modifiée à tout moment | Description du format susceptible d'être modifiée à tout moment, contrôlée par l'entreprise |
