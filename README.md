@@ -3,14 +3,14 @@
 
 Digital Preservation Services is responsible for developing strategies and enacting activities that contribute to the long-term access and reuse of datasets. The service is also responsible for determining long-term retention of datasets through the application of appraisal and reappraisal strategies and deaccession workflows. Digital Preservation Services is responsible for identifying gaps and areas of improvement in an effort to develop more robust and efficient activities to ensure long-term access and reuse of the data.
 
-Visit the file format page (under development) for a information about the service's file format work and strategy.
+Visit the file format page (under development) for information about the service's file format work and strategy.
 
 ## Resources for Researchers
 - Forthcoming guides/checklist
 - [Digital Preservation Tips for Researchers](https://drive.google.com/file/d/1jHsRPGJHTfEn1HEJhGc3M-SMw-d2k7iE/view?usp=drive_link)
 
 ### File Format Guidance for Researchers
-The table below provides general guidelines for researchers outlining the differences between proprietary and open formats. In general, open formats are suggested to help facilitate long-term access and reuse. However, not all research can use open formats.
+The table below provides general guidelines for researchers outlining the differences between proprietary and open formats. In general, open formats are encouraged as the probability of continued access and reuse is higher. However, not all research can use open formats.
 
 | Open formats | Proprietary formats | Proprietary, but open | 
 |:-----------|:----------- |:----------- |
@@ -33,7 +33,7 @@ Consultez la page sur le format de fichier (en cours de développement) pour obt
 - [Conseils de préservation numérique pour les chercheuses et les chercheurs](https://drive.google.com/file/d/1sfiJ_-4bEVdVdncfuUzDDQi9vAMFxPGM/view?usp=drive_link)
 
 ### Conseils sur les formats de fichiers à l'intention des chercheurs
-Le tableau ci-dessous fournit des conseils généraux à l'intention des chercheuses et des chercheurs, soulignant les différences entre les formats propriétaires et les formats ouverts. En général, les formats ouverts sont suggérés pour faciliter l'accès et la réutilisation à long terme. Cependant, toutes les recherches ne peuvent pas utiliser des formats ouverts.
+Le tableau ci-dessous fournit aux chercheuses et chercheurs des lignes directrices générales sur les différences entre les formats propriétaires et les formats ouverts. En général, les formats ouverts sont encouragés car la probabilité d'un accès continu et d'une réutilisation est plus élevée. Cependant, toutes les recherches ne peuvent pas utiliser des formats ouverts. 
 
 | Formats ouverts | Formats propriétaires | Format propriétaire mais ouvert|
 |:-----------|:----------- |:----------- |
