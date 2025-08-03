@@ -6,8 +6,8 @@ Digital Preservation Services is responsible for developing strategies and enact
 Visit the [file format page - in development](https://github.com/Alliance-RDM-GDR/Digital_Preservation_Services_File_Format/blob/main/README.md) for a information about the service's file format work and strategy.
 
 ## Resources for Researchers
-- Forthcoming guides
-- Digital Preservation Tips for Researchers
+- Forthcoming guides/checklist
+- [Digital Preservation Tips for Researchers](https://drive.google.com/file/d/1jHsRPGJHTfEn1HEJhGc3M-SMw-d2k7iE/view?usp=drive_link)
 
 ### File Format Guidance for Researchers
 The table below provides general guidelines for researchers outlining the differences between proprietary and open formats. In general, open formats are suggested to help facilitate long-term access and reuse. However, not all research can use open formats.
@@ -30,8 +30,8 @@ Le service de préservation numérique est chargé d'élaborer des stratégies e
 Consultez la [page sur le format de fichier - en cours de développement](https://github.com/Alliance-RDM-GDR/Digital_Preservation_Services_File_Format/blob/main/README.md) pour obtenir des informations sur le travail et la stratégie du service en matière de format de fichier.
 
 ## Ressources pour les chercheuses et les chercheurs
-- Guides
-- Conseils de préservation numérique pour les chercheuses et les chercheurs
+- Guides/liste de contrôle - en cours de développement
+- [Conseils de préservation numérique pour les chercheuses et les chercheurs](https://drive.google.com/file/d/1sfiJ_-4bEVdVdncfuUzDDQi9vAMFxPGM/view?usp=drive_link)
 
 ### Conseils sur les formats de fichiers à l'intention des chercheurs
 Le tableau ci-dessous fournit des conseils généraux à l'intention des chercheuses et des chercheurs, soulignant les différences entre les formats propriétaires et les formats ouverts. En général, les formats ouverts sont suggérés pour faciliter l'accès et la réutilisation à long terme. Cependant, toutes les recherches ne peuvent pas utiliser des formats ouverts.
@@ -64,7 +64,7 @@ Cette section contient une sélection de présentations sur le service de prése
 - [A Curated List of Appraisal Challenges](https://drive.google.com/file/d/14dmBPRjMKPIKJWieYB4CTXNw0E0kE6P7/view?usp=sharing) | [Digital Preservation Coalition Reappraising Appraisal Clinic](https://www.dpconline.org/events/eventdetail/360/-/-) - September 04, 2024 | with Erin Clary, Curation Coordinator
 
 ---
-## License / Licence
+## License 
 
     This work is licensed under a Creative Commons Attribution 4.0 International License:  
     https://creativecommons.org/licenses/by/4.0/
