@@ -1,25 +1,39 @@
-# Digital Preservation Services / Services de préservation numérique
+# Digital Preservation Services 
+[Version française ci-dessous](https://github.com/Alliance-RDM-GDR/Digital_Preservation_Services/edit/main/README.md#services-de-pr%C3%A9servation-num%C3%A9rique)
+
 Digital Preservation Services is responsible for developing strategies and enacting activities that contribute to the long-term access and reuse of datasets. The service is also responsible for determining long-term retention of datasets through the application of appraisal and reappraisal strategies and deaccession workflows. Digital Preservation Services is responsible for identifying gaps and areas of improvement in an effort to develop more robust and efficient activities to ensure long-term access and reuse of the data.
 
 Visit the [file format page](https://github.com/Alliance-RDM-GDR/Digital_Preservation_Services_File_Format/blob/main/README.md) for a information about the service's file format work and strategy.
 
+## Resources for Researchers
+- Forthcoming guides
+- Digital Preservation Tips for Researchers
+
+## High Level Workflows
+- [Processing Workflow](https://drive.google.com/file/d/1EXlT6zM1UyX9DNeldVzEb4Pczu4_JPRN/view?usp=sharing)
+- [File Format Workflow](https://drive.google.com/file/d/1s3cPfoveZPZCFjf3Q1JLX906kkaqENFx/view?usp=sharing)
+
+---
+# Services de préservation numérique
 Le service de préservation numérique est chargé d'élaborer des stratégies et de mettre en œuvre des activités qui contribuent à l'accès et à la réutilisation à long terme des jeux de données. Le service est également chargé de déterminer la conservation à long terme des jeux de données par l'application de stratégies d'évaluation et de réévaluation et de flux de travail de retrait. Le service de préservation numérique est chargé d'identifier les lacunes et les domaines d'amélioration dans le but de développer des activités plus robustes et plus efficaces pour garantir l'accès et la réutilisation à long terme des données.
 
 Consultez la [page sur le format de fichier](https://github.com/Alliance-RDM-GDR/Digital_Preservation_Services_File_Format/blob/main/README.md) pour obtenir des informations sur le travail et la stratégie du service en matière de format de fichier.
 
----
-## Resources for Researchers / Ressources pour les chercheuses et les chercheurs
-- Forthcoming guides EN/FR
-- Digital Preservation Tips for Researchers / Conseils de préservation numérique pour les chercheuses et les chercheurs
+## Ressources pour les chercheuses et les chercheurs
+- Guides
+- Conseils de préservation numérique pour les chercheuses et les chercheurs
 
+## Flux de travail de haut niveau
+- [Processus de traitement](https://drive.google.com/file/d/1EXlT6zM1UyX9DNeldVzEb4Pczu4_JPRN/view?usp=sharing)
+- [Flux de travail des formats de fichiers](https://drive.google.com/file/d/16aQNO4ANRB_2XidcLzXzRfBEsCEGY5Pr/view?usp=sharing)
+  
 ---
-## High Level Workflows / Flux de travail de haut niveau
-- [Processing Workflow / Processus de traitement](https://drive.google.com/file/d/1EXlT6zM1UyX9DNeldVzEb4Pczu4_JPRN/view?usp=sharing)
-- [File Format Workflow](https://drive.google.com/file/d/1s3cPfoveZPZCFjf3Q1JLX906kkaqENFx/view?usp=sharing) | [Flux de travail des formats de fichiers](https://drive.google.com/file/d/16aQNO4ANRB_2XidcLzXzRfBEsCEGY5Pr/view?usp=sharing)
+# Selected Presentations / Présentation sélectionnées
+This section contains selected presentations about digital preservation services and the work it undertakes. 
 
----
-## Selected Presentations / Présentation sélectionnées
-- [Has Magic?: False: File Format Signature Development for Research Data Formats](https://drive.google.com/file/d/1OdeyDnRl5rcDpa15mAym21xqVdP7t5aa/view?usp=sharing)| [DRI Connect 2025](https://driconnect.alliancecan.ca/) - May 27, 2025
+Cette section contient une sélection de présentations sur le service de préservation numérique et le travail qu'il entreprend.
+
+- [Has Magic?: False: File Format Signature Development for Research Data Formats](https://drive.google.com/file/d/1OdeyDnRl5rcDpa15mAym21xqVdP7t5aa/view?usp=sharing) | [DRI Connect 2025](https://driconnect.alliancecan.ca/) - May 27, 2025
 - [What really happens in FRDR?](https://drive.google.com/file/d/16nky28LH6yl7IqZWdPTZTBMUXN5Bwe-G/view?usp=sharing) | [DRI Connect 2025](https://driconnect.alliancecan.ca/) - May 27, 2025 | with Natalie Williams, Curation Services Lead
 - [Getting Creative: Exploring ways to communicate digital preservation to others](https://drive.google.com/file/d/1s-vB1FUZnn3V48H_xvUF-Ev2w1t84zpc/view?usp=sharing) | [DPC Americas Members Forums](https://www.dpconline.org/events/eventdetail/465/-/dpc-members-forum-and-networking-event-americas)- April 25, 2025
 - [Décrire un format de fichier](https://drive.google.com/file/d/14qc3ys93W9aC8s8cfzqD4CakL4ZWPmTK/view?usp=drive_link) | Lunch et préservation - 8 janvier 2025
@@ -45,6 +59,5 @@ Consultez la [page sur le format de fichier](https://github.com/Alliance-RDM-GDR
 ---
 ## Contact
 
-    Digital Preservation Services  
-    Email: amanda.tome@alliancecan.ca 
----
+    Digital Preservation Services / Services de la préservation numérique 
+    Email/courriel: amanda.tome@alliancecan.ca 
