@@ -77,5 +77,5 @@ Cette section contient une sélection de présentations sur le service de prése
 ---
 ## Contact
 
-    Digital Preservation Services / Services de la préservation numérique 
+    Digital Preservation Services / Services de préservation numérique 
     Email/courriel: amanda.tome@alliancecan.ca 
