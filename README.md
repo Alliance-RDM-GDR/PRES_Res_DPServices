@@ -32,7 +32,7 @@ Consultez la page sur le format de fichier (en cours de développement) pour obt
 - Guides/liste de contrôle - en cours de développement
 - [Conseils de préservation numérique pour les chercheuses et les chercheurs](https://drive.google.com/file/d/1sfiJ_-4bEVdVdncfuUzDDQi9vAMFxPGM/view?usp=drive_link)
 
-### Conseils sur les formats de fichiers à l'intention des chercheurs
+### Conseils sur les formats de fichiers pour les chercheuses et les chercheurs
 Le tableau ci-dessous fournit aux chercheuses et chercheurs des lignes directrices générales sur les différences entre les formats propriétaires et les formats ouverts. En général, les formats ouverts sont encouragés car la probabilité d'un accès continu et d'une réutilisation est plus élevée. Cependant, toutes les recherches ne peuvent pas utiliser des formats ouverts. 
 
 | Formats ouverts | Formats propriétaires | Format propriétaire mais ouvert|
