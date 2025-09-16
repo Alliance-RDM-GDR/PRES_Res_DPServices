@@ -27,7 +27,7 @@ The table below provides general guidelines for researchers outlining the differ
 
 ---
 # Services de préservation numérique
-Le service de préservation numérique est chargé d'élaborer des stratégies et de mettre en œuvre des activités qui contribuent à l'accès et à la réutilisation à long terme des jeux de données. Le service est également chargé de déterminer la conservation à long terme des jeux de données par l'application de stratégies d'évaluation et de réévaluation et de flux de travail de retrait. Le service de préservation numérique est chargé d'identifier les lacunes et les domaines d'amélioration dans le but de développer des activités plus robustes et plus efficaces pour garantir l'accès et la réutilisation à long terme des données.
+Les services de préservation numérique est chargé d'élaborer des stratégies et de mettre en œuvre des activités qui contribuent à l'accès et à la réutilisation à long terme des jeux de données. Le service est également chargé de déterminer la conservation à long terme des jeux de données par l'application de stratégies d'évaluation et de réévaluation et de flux de travail de retrait. Le service de préservation numérique est chargé d'identifier les lacunes et les domaines d'amélioration dans le but de développer des activités plus robustes et plus efficaces pour garantir l'accès et la réutilisation à long terme des données.
 
 Consultez la page sur le format de fichier (en cours de développement) pour obtenir des informations sur le travail et la stratégie du service en matière de format de fichier.
 
@@ -65,7 +65,7 @@ Cette section contient une sélection de présentations sur le service de prése
 - [A Curated List of Appraisal Challenges](https://drive.google.com/file/d/14dmBPRjMKPIKJWieYB4CTXNw0E0kE6P7/view?usp=sharing) | [Digital Preservation Coalition Reappraising Appraisal Clinic](https://www.dpconline.org/events/eventdetail/360/-/-) - September 04, 2024 | with Erin Clary, Curation Coordinator
 
 ---
-## License 
+## License / Licence
 
     This work is licensed under a Creative Commons Attribution 4.0 International License:  
     https://creativecommons.org/licenses/by/4.0/
