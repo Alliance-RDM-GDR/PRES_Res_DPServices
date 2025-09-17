@@ -10,7 +10,7 @@ Visit the file format page (under development) for information about the service
 
 ## Resources for Researchers
 - Forthcoming guides/checklist
-- [Digital Preservation Tips for Researchers](https://drive.google.com/file/d/1LNLKe86KvYf0-SVzQlJ4rtKlNxuw8_Mm/view)
+<!-- - [Digital Preservation Tips for Researchers](https://drive.google.com/file/d/1LNLKe86KvYf0-SVzQlJ4rtKlNxuw8_Mm/view)  -->
 
 ### File Format Guidance for Researchers
 The table below provides general guidelines for researchers outlining the differences between proprietary and open formats. In general, open formats are encouraged as the probability of continued access and reuse is higher. However, not all research can use open formats.
@@ -33,7 +33,7 @@ Consultez la page sur le format de fichier (en cours de développement) pour obt
 
 ## Ressources pour les chercheuses et les chercheurs
 - Guides/liste de contrôle - en cours de développement
-- [Conseils de préservation numérique pour les chercheuses et les chercheurs](https://drive.google.com/file/d/1sfiJ_-4bEVdVdncfuUzDDQi9vAMFxPGM/view?usp=drive_link)
+<!-- - [Conseils de préservation numérique pour les chercheuses et les chercheurs](https://drive.google.com/file/d/1sfiJ_-4bEVdVdncfuUzDDQi9vAMFxPGM/view?usp=drive_link) -->
 
 ### Conseils sur les formats de fichiers pour les chercheuses et les chercheurs
 Le tableau ci-dessous fournit aux chercheuses et chercheurs des lignes directrices générales sur les différences entre les formats propriétaires et les formats ouverts. En général, les formats ouverts sont encouragés car la probabilité d'un accès continu et d'une réutilisation est plus élevée. Cependant, toutes les recherches ne peuvent pas utiliser des formats ouverts. 
